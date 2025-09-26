@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Chatbot ROBO🤖</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+        }
+        .chat-container {
+            width: 60%;
+            margin: 50px auto;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            padding: 20px;
+        }
+        .chat-box {
+            height: 400px;
+            overflow-y: scroll;
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin-bottom: 10px;
+            background-color: #fff;
+        }
+        .user, .bot {
+            margin: 10px 0;
+        }
+        .user {
+            text-align: right;
+            color: #007bff;
+        }
+        .bot {
+            text-align: left;
+            color: #333;
+        }
+        input[type="text"] {
+            width: 80%;
+            padding: 10px;
+            font-size: 16px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <h2>ROBO🤖 - Tu asistente sobre Chatbots</h2>
+        <div class="chat-box" id="chat-box">
+            <div class="bot">ROBO🤖: ¡Hola! Pregúntame lo que quieras sobre chatbots. Escribe "bye" para salir.</div>
+        </div>
+        <input type="text" id="user-input" placeholder="Escribe tu mensaje aquí..." />
+        <button onclick="sendMessage()">Enviar</button>
+    </div>
+
+    <script>
+        function sendMessage() {
+            const userInput = document.getElementById("user-input").value;
+            if (userInput.trim() === "") return;
+
+            const chatBox = document.getElementById("chat-box");
+            chatBox.innerHTML += `<div class="user">Tú: ${userInput}</div>`;
+            document.getElementById("user-input").value = "";
+
+            fetch(`/get?msg=${encodeURIComponent(userInput)}`)
+                .then(response => response.text())
+                .then(data => {
+                    chatBox.innerHTML += `<div class="bot">ROBO🤖: ${data}</div>`;
+                    chatBox.scrollTop = chatBox.scrollHeight;
+                });
+        }
+    </script>
+</body>
+</html>

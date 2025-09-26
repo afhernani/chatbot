@@ -1,0 +1,164 @@
+¿Qué es la AEPD y cuál es su función principal?
+La AEPD (Agencia Española de Protección de Datos) es una autoridad pública independiente encargada de velar por el cumplimiento de la normativa sobre protección de datos personales y garantizar los derechos fundamentales de las personas en este ámbito.
+¿Qué es un Algoritmo de Google?
+Un Algoritmo de Google es un conjunto de reglas y cálculos que utiliza el buscador para ordenar y clasificar los resultados de búsqueda.
+¿Qué servicios ofrece Arsys?
+Arsys es un proveedor de servicios de Internet que ofrece soluciones de hosting, dominios y servidores cloud.
+¿Qué es ASNEF y para qué se utiliza?
+ASNEF (Asociación Nacional de Establecimientos Financieros de Crédito) es un fichero de morosidad en el que se registran personas físicas o jurídicas con deudas impagadas a entidades financieras, utilizado para valorar riesgos crediticios.
+¿Qué es una Asociación?
+Una Asociación es una entidad sin ánimo de lucro formada por un grupo de personas que se unen para un fin común de carácter social, cultural, educativo o empresarial.
+¿En qué consiste la Automatización de Procesos?
+La Automatización de Procesos consiste en el uso de tecnologías para realizar tareas repetitivas sin intervención humana, aumentando la eficiencia y reduciendo errores.
+¿Qué es el modelo de negocio B2B?
+El modelo B2B (Business to Business) es un modelo de negocio en el que las transacciones comerciales se realizan entre empresas.
+¿Qué es el modelo de negocio B2C?
+El modelo B2C (Business to Consumer) es un modelo de negocio en el que las empresas venden directamente a los consumidores finales.
+¿Qué es el modelo de negocio B2G?
+El modelo B2G (Business to Government) es un modelo de negocio donde las empresas venden productos o servicios a entidades gubernamentales.
+¿Qué es el Benchmarking?
+El Benchmarking es un proceso de comparación de procesos y resultados con proveedores u organizaciones similares para identificar mejores prácticas.
+¿Qué es el Business Intelligence (BI)?
+El Business Intelligence (BI) es un conjunto de herramientas y metodologías para analizar datos empresariales y transformarlos en información útil para la toma de decisiones.
+¿Qué es una Buyer Persona?
+Una Buyer Persona es una representación semi-ficticia de un cliente ideal basada en datos reales sobre comportamiento, motivaciones y objetivos.
+¿Qué es un Call to Action (CTA)?
+Un Call to Action (CTA) es un elemento en una página web, correo o anuncio digital que induce al usuario a realizar una acción concreta (por ejemplo, registrarse, descargar, comprar).
+¿Qué es la Ciberseguridad?
+La Ciberseguridad es un conjunto de técnicas para proteger redes, sistemas y datos de accesos no autorizados o ciberataques.
+¿Qué es la CIRBE y quién la gestiona?
+La CIRBE (Central de Información de Riesgos del Banco de España) es una base de datos gestionada por el Banco de España que recoge los riesgos financieros (créditos, avales, etc.) que las entidades tienen con sus clientes, tanto particulares como empresas.
+¿Qué es la Cloud o Nube?
+La Cloud o Nube es un modelo de almacenamiento y acceso a datos y servicios a través de internet en lugar de hacerlo localmente.
+¿Qué hace un Community Manager?
+Un Community Manager es un profesional encargado de construir, gestionar y administrar la comunidad online de una marca en el entorno digital.
+¿Qué son las Competencias Digitales?
+Las Competencias Digitales son las habilidades necesarias para utilizar herramientas digitales de forma eficaz.
+¿Qué es el Departamento de Compliance?
+El Departamento de Compliance es el área encargada de asegurar el cumplimiento normativo, ético y legal de la organización, implantando políticas, controles y formación.
+¿Qué es un Contact Center?
+Un Contact Center es un centro de atención al cliente que gestiona interacciones por múltiples canales como teléfono, email o chat.
+¿Qué es un Coworking?
+Un Coworking es un espacio compartido de trabajo para profesionales independientes y pymes que facilita networking, servicios comunes y flexibilidad.
+¿Qué es un CRM?
+Un CRM (Customer Relationship Management) es un sistema para gestionar las relaciones con los clientes, almacenar sus datos y mejorar la atención y fidelización.
+¿Qué es un análisis DAFO?
+El análisis DAFO es un análisis estratégico que estudia las Debilidades, Amenazas, Fortalezas y Oportunidades de una organización.
+¿Qué es un Dashboard?
+Un Dashboard es un panel visual que muestra indicadores y métricas clave en tiempo real para facilitar la supervisión y toma de decisiones.
+¿Qué son las Debilidades en un análisis DAFO?
+Las Debilidades en un análisis DAFO son factores internos que limitan o perjudican el desarrollo de una organización.
+¿Qué es el Email Marketing?
+El Email Marketing es una estrategia de comunicación que usa el correo electrónico para enviar contenidos comerciales o informativos a audiencias segmentadas.
+¿Qué es un ERP?
+Un ERP (Enterprise Resource Planning) es un sistema que integra en una única plataforma las funciones básicas de una empresa (finanzas, compras, ventas, logística, RRHH), automatizando procesos y centralizando información.
+¿Qué es una Estrategia Digital?
+Una Estrategia Digital es una ruta o plan que orienta los procesos organizativos de una empresa para adaptarse a la economía digital y mejorar su competitividad.
+¿Qué es la Experiencia del Cliente?
+La Experiencia del Cliente es la percepción que tiene un cliente sobre una marca como resultado de todas sus interacciones a lo largo del tiempo.
+¿Qué es una Factura Electrónica?
+Una Factura Electrónica es un documento digital con validez legal que sustituye a la factura en papel, facilitando la gestión contable y fiscal.
+¿Qué es un Feed?
+Un Feed es un flujo de contenidos digitales (noticias, publicaciones, vídeos, etc.) que un usuario recibe en plataformas o redes sociales de forma personalizada.
+¿Qué son las Fortalezas en un análisis DAFO?
+Las Fortalezas en un análisis DAFO son capacidades internas que proporcionan ventajas competitivas a la organización.
+¿Qué es la Front Page de un sitio web?
+La Front Page es la portada de un sitio web; la primera página que introduce contenidos y guía la navegación hacia secciones clave.
+¿Qué es una Fundación?
+Una Fundación es una organización sin ánimo de lucro creada con un patrimonio destinado a fines de interés general como educación, cultura, investigación o acción social.
+¿Qué es una Ghost Kitchen?
+Una Ghost Kitchen es una cocina virtual que prepara pedidos exclusivamente para entrega a domicilio, sin espacio físico para atención al cliente.
+¿Qué es Google Analytics?
+Google Analytics es una herramienta de análisis web de Google que permite medir el tráfico y comportamiento de los usuarios en un sitio web.
+¿Qué es Google Maps?
+Google Maps es un servicio de mapas online que permite localizar direcciones, negocios y planificar rutas.
+¿Qué es Google Trends?
+Google Trends es una plataforma que muestra la popularidad de los términos de búsqueda en Google a lo largo del tiempo.
+¿Qué es el Hardware?
+El Hardware es el conjunto de componentes físicos y tangibles de un sistema informático, como procesadores, memoria, discos duros o periféricos.
+¿Qué es el Hosting?
+El Hosting es un servicio que permite alojar un sitio web y hacerlo accesible desde Internet.
+¿Qué es la Impresión 3D?
+La Impresión 3D (Fabricación Aditiva) es una tecnología que crea objetos físicos a partir de modelos digitales.
+¿Qué es la Inseguridad Jurídica?
+La Inseguridad Jurídica es la falta de claridad o estabilidad en las normas legales que puede generar riesgos para las decisiones empresariales.
+¿Qué es una Intranet?
+Una Intranet es una red interna privada de una organización para compartir información, herramientas y recursos de forma segura.
+¿Qué es el sistema Just in Time (JIT)?
+El sistema Just in Time (JIT) es un sistema de producción que busca reducir inventarios y producir solo lo necesario en el momento justo.
+¿Qué es un KPI?
+Un KPI (Key Performance Indicator) es un indicador clave de desempeño que permite medir el éxito de una acción o estrategia.
+¿Qué es una Landing Page?
+Una Landing Page (Página de aterrizaje) es una página diseñada para convertir visitas en leads o acciones específicas tras un clic en anuncio, email o enlace.
+¿Qué es el Lucro Cesante?
+El Lucro Cesante es la pérdida económica sufrida por una empresa cuando un incidente (como un ciberataque) interrumpe sus operaciones e impide generar ingresos.
+¿Qué es un Marketplace?
+Un Marketplace es una plataforma digital donde varios vendedores ofrecen productos o servicios a clientes.
+¿Qué es la Mejora Continua?
+La Mejora Continua es una filosofía de gestión enfocada en la optimización constante de procesos, productos o servicios.
+¿Qué es un MES?
+Un MES (Manufacturing Execution System) es un sistema que monitoriza, controla y optimiza las operaciones de producción en planta, conectando planificación y ejecución.
+¿Qué es el Naming?
+El Naming es el proceso de creación del nombre de una marca, producto o servicio.
+¿Qué es un Newsletter?
+Un Newsletter es un boletín informativo digital enviado periódicamente por correo electrónico.
+¿Qué es el Nivel de Madurez Digital?
+El Nivel de Madurez Digital es el grado de avance de una organización en su proceso de adopción y aprovechamiento de tecnologías digitales.
+¿Qué es el NPS?
+El NPS (Net Promoter Score) es un indicador que mide la lealtad del cliente a través de una pregunta sobre su disposición a recomendar la empresa.
+¿Qué son los Objetivos Cualitativos?
+Los Objetivos Cualitativos son metas que buscan mejorar aspectos intangibles como la percepción del cliente o la satisfacción.
+¿Qué son los Objetivos Cuantitativos?
+Los Objetivos Cuantitativos son metas medibles que se expresan en números.
+¿Qué es una ONG?
+Una ONG (Organización No Gubernamental) es una entidad sin ánimo de lucro independiente de los gobiernos, creada para atender causas sociales, humanitarias, medioambientales o de derechos humanos.
+¿Qué son las Oportunidades en un análisis DAFO?
+Las Oportunidades en un análisis DAFO son factores externos que pueden favorecer el desarrollo de una organización.
+¿Qué es el Phishing?
+El Phishing es una técnica de engaño digital mediante correos o mensajes falsos para robar contraseñas o datos sensibles.
+¿Qué es el Posicionamiento en Buscadores (SEO)?
+El Posicionamiento en Buscadores (SEO) son las estrategias para mejorar la visibilidad de una web en los resultados de búsqueda.
+¿Qué es un Punto de Ruptura?
+Un Punto de Ruptura es una situación en la que se agota el stock de un producto, interrumpiendo el proceso de venta o producción.
+¿Qué es una PYME?
+Una PYME (Pequeña y Mediana Empresa) es una empresa que cuenta con menos de 250 empleados y un volumen de negocio anual limitado, fundamental en la economía por su flexibilidad e innovación.
+¿Qué es un código QR?
+Un código QR (Quick Response) es un código de respuesta rápida escaneable por dispositivos móviles.
+¿Qué es el diseño Responsive?
+El diseño Responsive es un diseño web que se adapta automáticamente al tamaño de pantalla del dispositivo.
+¿Qué es el SEM?
+El SEM (Search Engine Marketing) es una estrategia de marketing digital basada en anuncios pagados en buscadores.
+¿Qué es SEMrush?
+SEMrush es una herramienta de análisis competitivo para SEO, SEM y marketing digital.
+¿Qué es el SMS Marketing?
+El SMS es un servicio de mensajes cortos; un canal de comunicación móvil para envíos breves, directos y de alta tasa de apertura.
+¿Qué es el Software?
+El Software es el conjunto de programas, aplicaciones y sistemas operativos que permiten que el hardware funcione y ejecute tareas específicas en un ordenador o dispositivo.
+¿Qué es un Software de Control de Inventario?
+Un Software de Control de Inventario es una aplicación que gestiona el stock en tiempo real, evitando faltantes o excesos.
+¿Qué son los Stocks?
+Los Stocks son el conjunto de productos o materias primas almacenadas para su uso o venta futura.
+¿Qué es el Streaming?
+El Streaming es una tecnología que permite la transmisión de contenidos digitales (audio, vídeo o eventos en directo) a través de internet sin necesidad de descargarlos previamente.
+¿Qué es un TPV?
+Un TPV (Terminal Punto de Venta) es un dispositivo que permite procesar pagos y registrar ventas en establecimientos físicos.
+¿Qué es la Transformación Digital?
+La Transformación Digital es el proceso mediante el cual las empresas adoptan tecnologías digitales para mejorar procesos y experiencias.
+¿Qué es la Trazabilidad?
+La Trazabilidad es la capacidad de rastrear el origen y recorrido de un producto o proceso, registrando materias primas, máquinas y condiciones.
+¿Qué es un Usuario Digital?
+Un Usuario Digital es una persona que interactúa con entornos, plataformas o herramientas digitales.
+¿Qué es una Videoconferencia?
+Una Videoconferencia es una tecnología que permite reuniones a distancia en tiempo real a través de video y audio.
+¿Qué es la Visión 360 grados del cliente?
+La Visión 360 grados del cliente es un enfoque estratégico que permite tener una comprensión integral y detallada del cliente mediante la recopilación, análisis y uso de datos procedentes de todos los puntos de contacto y canales de interacción con la empresa. Facilita una toma de decisiones más personalizada y eficaz.
+¿Qué es un Webinar?
+Un Webinar es un seminario o taller impartido por internet con fines de formación o marketing.
+¿Qué es un Website?
+Un Website es un sitio web corporativo o institucional que representa la presencia digital de una organización.
+¿Qué es el lenguaje XML?
+El XML (eXtensible Markup Language) es un lenguaje de marcado que facilita el intercambio de información estructurada.
+¿Qué es el YouTube Marketing?
+El YouTube Marketing es una estrategia de contenido audiovisual en YouTube para promocionar marcas, productos o servicios.
+¿Qué es el modelo de seguridad Zero Trust?
+El modelo Zero Trust (Confianza Cero) es un modelo de seguridad informática que asume que ninguna entidad es confiable por defecto, requiriendo verificación continua.

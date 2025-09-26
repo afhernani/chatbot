@@ -1,0 +1,50 @@
+faq_salud = [
+    "¿Qué es la hipertensión?",
+    "La hipertensión es una condición médica en la que la presión arterial se mantiene elevada de forma crónica.",
+
+    "¿Cómo prevenir la diabetes tipo 2?",
+    "Mantener una dieta equilibrada, hacer ejercicio regularmente y controlar el peso ayuda a prevenirla.",
+
+    "¿Qué es la fiebre?",
+    "La fiebre es una elevación temporal de la temperatura corporal, a menudo causada por una infección.",
+
+    "¿Qué síntomas tiene la gripe?",
+    "Los síntomas comunes incluyen fiebre, tos, dolor de garganta, fatiga y dolores musculares.",
+
+    "¿Qué es una vacuna?",
+    "Una vacuna es una preparación que estimula el sistema inmunológico para proteger contra enfermedades específicas."
+]
+
+faq_cultura = [
+    "¿Qué es el flamenco?",
+    "El flamenco es un arte musical y de danza originario de Andalucía que combina canto, baile y guitarra.",
+
+    "¿Quién fue Miguel de Cervantes?",
+    "Fue un escritor español del Siglo de Oro, autor de 'Don Quijote de la Mancha'.",
+
+    "¿Qué es el Día de los Muertos?",
+    "Es una celebración mexicana que honra a los difuntos con altares, comida y flores.",
+
+    "¿Qué representa el Carnaval de Las Palmas?",
+    "Es una fiesta popular que celebra la cultura canaria con disfraces, música y desfiles.",
+
+    "¿Qué es una zarzuela?",
+    "La zarzuela es un género musical escénico español que combina canto, diálogo y danza."
+]
+
+faq_tecnologia = [
+    "¿Qué es la inteligencia artificial?",
+    "Es la capacidad de una máquina para imitar funciones cognitivas humanas como el aprendizaje y la toma de decisiones.",
+
+    "¿Qué es un chatbot?",
+    "Un chatbot es un programa que simula una conversación con humanos mediante texto o voz.",
+
+    "¿Qué es la computación en la nube?",
+    "Es el uso de servidores remotos para almacenar, gestionar y procesar datos a través de internet.",
+
+    "¿Qué es un algoritmo?",
+    "Un algoritmo es un conjunto de instrucciones paso a paso para resolver un problema o realizar una tarea.",
+
+    "¿Qué es el Big Data?",
+    "Big Data se refiere al manejo de grandes volúmenes de datos que requieren herramientas avanzadas para su análisis."
+]

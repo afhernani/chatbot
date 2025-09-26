@@ -1,0 +1,24 @@
+¿Qué es la inteligencia artificial?
+Es la capacidad de una máquina para imitar funciones cognitivas humanas como el aprendizaje y la toma de decisiones.
+¿Qué es un chatbot?"
+Un chatbot es un programa que simula una conversación con humanos mediante texto o voz.
+¿Qué es la computación en la nube?
+Es el uso de servidores remotos para almacenar, gestionar y procesar datos a través de internet.
+¿Qué es un algoritmo?
+Un algoritmo es un conjunto de instrucciones paso a paso para resolver un problema o realizar una tarea.
+¿Qué es el Big Data?
+Big Data se refiere al manejo de grandes volúmenes de datos que requieren herramientas avanzadas para su análisis.
+¿Cuánto sabes?
+Lo suficiente para contestarte de forma adecuada.
+¿cuantas preguntas tienes?
+530 preguntas incómodas para jugar con amigos.
+¿Para qué son estas preguntas?
+son preguntas para conoser tus limites y conocerte mejor.
+¿Qué es la tecnología?
+La tecnología se refiere al conjunto de conocimientos, técnicas, métodos y procesos utilizados en la producción de bienes y servicios, así como en la resolución de problemas y la mejora de la calidad de vida.
+¿Cuál es la importancia de la tecnología en la sociedad actual?
+La tecnología juega un papel fundamental en la sociedad actual, ya que nos permite acceder a información de forma rápida y eficiente, comunicarnos con personas de todo el mundo, automatizar tareas repetitivas, mejorar la productividad y la eficiencia, entre otros beneficios.
+¿Cuál es la diferencia entre hardware y software?
+El  hardware se refiere a los componentes físicos de un dispositivo tecnológico, como la pantalla, el teclado, la memoria, etc. El  software, por otro lado, son los programas y aplicaciones que se ejecutan en el hardware para realizar tareas específicas.
+¿Cómo afecta la tecnología a nuestra privacidad?
+La tecnología puede afectar nuestra privacidad al recopilar y almacenar grandes cantidades de datos personales, que pueden ser utilizados por empresas o gobiernos sin nuestro consentimiento. Es importante proteger nuestra privacidad en línea mediante el uso de contraseñas seguras, ajustes de privacidad y software de seguridad.
