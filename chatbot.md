@@ -726,7 +726,7 @@ Instala Flask:
 ```bash
 pip install flask
 ```
-Crea app.py con el siguiente contenido:
+Crea **app.py** con el siguiente contenido:
 
 ```python
 from flask import Flask, render_template, request
@@ -883,6 +883,7 @@ Aquí tienes un archivo HTML básico llamado index.html que funcionará como la 
 ```
 
 ## ¿Qué sigue?
+
 Guarda este archivo como **index.html** dentro de la carpeta **templates**.
 
 Ejecuta tu aplicación Flask con python app.py.
@@ -890,6 +891,8 @@ Ejecuta tu aplicación Flask con python app.py.
 Abre tu navegador y ve a http://127.0.0.1:5000/ para comenzar a chatear con ROBO🤖.
 
 ¿Te gustaría que añadamos funciones como historial de conversación, reconocimiento de voz o traducción automática? Puedo ayudarte a llevarlo al siguiente nivel.
+
+____________________________________________________
 
 # Stop list en español
 
