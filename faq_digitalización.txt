@@ -20,20 +20,28 @@ El modelo B2G (Business to Government) es un modelo de negocio donde las empresa
 El Benchmarking es un proceso de comparación de procesos y resultados con proveedores u organizaciones similares para identificar mejores prácticas.
 ¿Qué es el Business Intelligence (BI)?
 El Business Intelligence (BI) es un conjunto de herramientas y metodologías para analizar datos empresariales y transformarlos en información útil para la toma de decisiones.
+¿Qué es SAP Business One?
+SAP Business One es un ERP para pymes que integra compras, ventas, inventario, contabilidad y producción, con informes y control financiero en tiempo real.
 ¿Qué es una Buyer Persona?
 Una Buyer Persona es una representación semi-ficticia de un cliente ideal basada en datos reales sobre comportamiento, motivaciones y objetivos.
 ¿Qué es un Call to Action (CTA)?
 Un Call to Action (CTA) es un elemento en una página web, correo o anuncio digital que induce al usuario a realizar una acción concreta (por ejemplo, registrarse, descargar, comprar).
+¿Qué son las Carreteras Inteligentes?
+Las Carreteras Inteligentes son infraestructuras viarias que incorporan sensórica, conectividad (V2X), señalización dinámica y analítica de datos para mejorar seguridad, fluidez y mantenimiento predictivo.
+¿Qué es un CERT?
+Un CERT (Computer Emergency Response Team) es un equipo especializado que previene, gestiona y responde a incidentes de ciberseguridad a nivel organizativo, nacional o sectorial.
 ¿Qué es la Ciberseguridad?
 La Ciberseguridad es un conjunto de técnicas para proteger redes, sistemas y datos de accesos no autorizados o ciberataques.
 ¿Qué es la CIRBE y quién la gestiona?
-La CIRBE (Central de Información de Riesgos del Banco de España) es una base de datos gestionada por el Banco de España que recoge los riesgos financieros (créditos, avales, etc.) que las entidades tienen con sus clientes, tanto particulares como empresas.
+La CIRBE (Central de Información de Riesgos del Banco de España) es una base de datos gestionada por el Banco de España que recoge los riesgos financieros (créditos, avales, etc.) que las entidades tienen con sus clientes.
 ¿Qué es la Cloud o Nube?
 La Cloud o Nube es un modelo de almacenamiento y acceso a datos y servicios a través de internet en lugar de hacerlo localmente.
 ¿Qué hace un Community Manager?
 Un Community Manager es un profesional encargado de construir, gestionar y administrar la comunidad online de una marca en el entorno digital.
 ¿Qué son las Competencias Digitales?
 Las Competencias Digitales son las habilidades necesarias para utilizar herramientas digitales de forma eficaz.
+¿Qué es la Competitividad?
+La Competitividad es la capacidad de una organización para mantener o mejorar su posición en el mercado frente a rivales, mediante precio, calidad, innovación, servicio o eficiencia operativa.
 ¿Qué es el Departamento de Compliance?
 El Departamento de Compliance es el área encargada de asegurar el cumplimiento normativo, ético y legal de la organización, implantando políticas, controles y formación.
 ¿Qué es un Contact Center?
@@ -48,24 +56,40 @@ El análisis DAFO es un análisis estratégico que estudia las Debilidades, Amen
 Un Dashboard es un panel visual que muestra indicadores y métricas clave en tiempo real para facilitar la supervisión y toma de decisiones.
 ¿Qué son las Debilidades en un análisis DAFO?
 Las Debilidades en un análisis DAFO son factores internos que limitan o perjudican el desarrollo de una organización.
+¿Qué es la Eficacia?
+La Eficacia es el grado en que se consiguen los objetivos propuestos, independientemente de los recursos utilizados.
+¿Qué es la Eficiencia?
+La Eficiencia es la relación entre resultados y recursos empleados; lograr el mismo resultado con menor coste/tiempo o mejores resultados con los mismos recursos.
+¿Qué es un Elevator Pitch?
+Un Elevator Pitch es una presentación breve y persuasiva (30–90 segundos) que explica una idea, producto o perfil profesional, destacando problema, propuesta de valor y «call to action».
 ¿Qué es el Email Marketing?
 El Email Marketing es una estrategia de comunicación que usa el correo electrónico para enviar contenidos comerciales o informativos a audiencias segmentadas.
 ¿Qué es un ERP?
 Un ERP (Enterprise Resource Planning) es un sistema que integra en una única plataforma las funciones básicas de una empresa (finanzas, compras, ventas, logística, RRHH), automatizando procesos y centralizando información.
+¿Qué es la Escalabilidad?
+La Escalabilidad es la capacidad de un sistema o proceso para crecer o decrecer en carga manteniendo rendimiento, estabilidad y costes controlados.
 ¿Qué es una Estrategia Digital?
 Una Estrategia Digital es una ruta o plan que orienta los procesos organizativos de una empresa para adaptarse a la economía digital y mejorar su competitividad.
+¿Qué son las Etiquetas RFID?
+Las Etiquetas RFID son dispositivos de identificación por radiofrecuencia que almacenan un identificador y se leen sin contacto. Permiten trazabilidad y control de inventario/envíos.
 ¿Qué es la Experiencia del Cliente?
 La Experiencia del Cliente es la percepción que tiene un cliente sobre una marca como resultado de todas sus interacciones a lo largo del tiempo.
 ¿Qué es una Factura Electrónica?
 Una Factura Electrónica es un documento digital con validez legal que sustituye a la factura en papel, facilitando la gestión contable y fiscal.
 ¿Qué es un Feed?
 Un Feed es un flujo de contenidos digitales (noticias, publicaciones, vídeos, etc.) que un usuario recibe en plataformas o redes sociales de forma personalizada.
+¿Qué son los Firewalls?
+Los Firewalls son sistemas (hardware o software) que filtran tráfico entre redes según reglas (puertos, IP, protocolos, aplicaciones).
+¿Qué es el Forecasting?
+El Forecasting (Previsión) son técnicas cuantitativas y cualitativas para proyectar demanda, ventas, costes o riesgos a futuro y soportar la planificación.
 ¿Qué son las Fortalezas en un análisis DAFO?
 Las Fortalezas en un análisis DAFO son capacidades internas que proporcionan ventajas competitivas a la organización.
 ¿Qué es la Front Page de un sitio web?
 La Front Page es la portada de un sitio web; la primera página que introduce contenidos y guía la navegación hacia secciones clave.
 ¿Qué es una Fundación?
 Una Fundación es una organización sin ánimo de lucro creada con un patrimonio destinado a fines de interés general como educación, cultura, investigación o acción social.
+¿Qué es la Gestión de Dispositivos Móviles (MDM)?
+La Gestión de Dispositivos Móviles (MDM) es una plataforma para administrar y securizar smartphones, tablets y portátiles: políticas, inventario, cifrado, borrado remoto, etc.
 ¿Qué es una Ghost Kitchen?
 Una Ghost Kitchen es una cocina virtual que prepara pedidos exclusivamente para entrega a domicilio, sin espacio físico para atención al cliente.
 ¿Qué es Google Analytics?
@@ -78,26 +102,52 @@ Google Trends es una plataforma que muestra la popularidad de los términos de b
 El Hardware es el conjunto de componentes físicos y tangibles de un sistema informático, como procesadores, memoria, discos duros o periféricos.
 ¿Qué es el Hosting?
 El Hosting es un servicio que permite alojar un sitio web y hacerlo accesible desde Internet.
+¿Qué es HubSpot?
+HubSpot es una plataforma CRM con módulos de marketing, ventas y servicio; gestiona contactos, pipeline, automatizaciones, contenido y analítica en un entorno unificado.
 ¿Qué es la Impresión 3D?
 La Impresión 3D (Fabricación Aditiva) es una tecnología que crea objetos físicos a partir de modelos digitales.
+¿Qué es INCIBE?
+INCIBE es el Instituto Nacional de Ciberseguridad (España). Ofrece servicios, guías, alertas, formación y soporte, además de coordinar respuesta ante ciberamenazas.
+¿Qué son los Informes Ad Hoc?
+Los Informes Ad Hoc son reportes personalizados creados bajo demanda para responder a una pregunta específica del negocio, con filtros, campos y visualizaciones definidas por el usuario.
+¿Qué es la Infoxicación?
+La Infoxicación es el exceso de información irrelevante o contradictoria que dificulta comprender y decidir. Se mitiga con curación de contenidos, fuentes fiables, filtros, etc.
 ¿Qué es la Inseguridad Jurídica?
 La Inseguridad Jurídica es la falta de claridad o estabilidad en las normas legales que puede generar riesgos para las decisiones empresariales.
+¿Qué es la Inteligencia Experiencial?
+La Inteligencia Experiencial es el uso de datos, IA y diseño de servicios para entender, anticipar y mejorar la experiencia cliente/usuario.
 ¿Qué es una Intranet?
 Una Intranet es una red interna privada de una organización para compartir información, herramientas y recursos de forma segura.
+¿Qué es el IoT (Internet of Things)?
+El IoT (Internet of Things) es una red de objetos físicos conectados que capturan y envían datos para monitorización y control.
 ¿Qué es el sistema Just in Time (JIT)?
 El sistema Just in Time (JIT) es un sistema de producción que busca reducir inventarios y producir solo lo necesario en el momento justo.
 ¿Qué es un KPI?
 Un KPI (Key Performance Indicator) es un indicador clave de desempeño que permite medir el éxito de una acción o estrategia.
 ¿Qué es una Landing Page?
 Una Landing Page (Página de aterrizaje) es una página diseñada para convertir visitas en leads o acciones específicas tras un clic en anuncio, email o enlace.
+¿Qué es un Lead?
+Un Lead es un contacto interesado (potencial cliente) que ha dejado sus datos. Se clasifica (MQL/SQL), se nutre y se puntúa antes de pasarlo a ventas.
+¿Qué es el Lead Scoring?
+El Lead Scoring es un sistema de puntuación que valora a cada lead según su encaje y su comportamiento para priorizar esfuerzos y definir umbrales MQL/SQL.
 ¿Qué es el Lucro Cesante?
 El Lucro Cesante es la pérdida económica sufrida por una empresa cuando un incidente (como un ciberataque) interrumpe sus operaciones e impide generar ingresos.
+¿Qué es Mailchimp?
+Mailchimp es una solución de email marketing y automatización para crear, enviar y analizar campañas; incluye segmentación, formularios, plantillas y reportes.
+¿Qué es el Margen Comercial?
+El Margen Comercial es la diferencia entre el precio de venta y el coste del producto/servicio (en importe o en %); indicador clave de rentabilidad.
 ¿Qué es un Marketplace?
 Un Marketplace es una plataforma digital donde varios vendedores ofrecen productos o servicios a clientes.
 ¿Qué es la Mejora Continua?
 La Mejora Continua es una filosofía de gestión enfocada en la optimización constante de procesos, productos o servicios.
 ¿Qué es un MES?
 Un MES (Manufacturing Execution System) es un sistema que monitoriza, controla y optimiza las operaciones de producción en planta, conectando planificación y ejecución.
+¿Qué es Microsoft Power BI?
+Microsoft Power BI es una suite de Business Intelligence para modelar datos, crear informes y paneles interactivos y compartirlos.
+¿Qué es un MQL?
+Un MQL (Marketing Qualified Lead) es un lead cualificado por marketing: cumple criterios de encaje e interés definidos y está listo para nurturing avanzado o traspaso a ventas.
+¿Qué es la Autenticación Multifactor (MFA)?
+La Autenticación Multifactor (MFA) es una autenticación con dos o más factores (algo que sabes, tienes o eres) para reducir suplantaciones.
 ¿Qué es el Naming?
 El Naming es el proceso de creación del nombre de una marca, producto o servicio.
 ¿Qué es un Newsletter?
@@ -106,6 +156,8 @@ Un Newsletter es un boletín informativo digital enviado periódicamente por cor
 El Nivel de Madurez Digital es el grado de avance de una organización en su proceso de adopción y aprovechamiento de tecnologías digitales.
 ¿Qué es el NPS?
 El NPS (Net Promoter Score) es un indicador que mide la lealtad del cliente a través de una pregunta sobre su disposición a recomendar la empresa.
+¿Qué es el Nurturing?
+El Nurturing es el proceso de «nutrir» leads con contenidos y acciones automatizadas y personalizadas para madurar su interés y avanzarles por el embudo.
 ¿Qué son los Objetivos Cualitativos?
 Los Objetivos Cualitativos son metas que buscan mejorar aspectos intangibles como la percepción del cliente o la satisfacción.
 ¿Qué son los Objetivos Cuantitativos?
@@ -124,8 +176,16 @@ Un Punto de Ruptura es una situación en la que se agota el stock de un producto
 Una PYME (Pequeña y Mediana Empresa) es una empresa que cuenta con menos de 250 empleados y un volumen de negocio anual limitado, fundamental en la economía por su flexibilidad e innovación.
 ¿Qué es un código QR?
 Un código QR (Quick Response) es un código de respuesta rápida escaneable por dispositivos móviles.
+¿Qué es QuillBot?
+QuillBot es un asistente de reescritura y parafraseo basado en IA que ayuda a mejorar redacción, resumir y citar, útil para contenidos y documentación.
+¿Qué es la Realidad Aumentada (RA)?
+La Realidad Aumentada (RA) es la superposición de elementos digitales (texto, imágenes, 3D) sobre el mundo real en tiempo real.
 ¿Qué es el diseño Responsive?
 El diseño Responsive es un diseño web que se adapta automáticamente al tamaño de pantalla del dispositivo.
+¿Qué es el RGPD?
+El RGPD es el Reglamento General de Protección de Datos (UE). Marco que regula el tratamiento de datos personales.
+¿Qué es Salesforce Sales Cloud?
+Salesforce Sales Cloud es un CRM de ventas para gestionar oportunidades, pipeline, previsiones, automatizaciones de procesos y reporting avanzado.
 ¿Qué es el SEM?
 El SEM (Search Engine Marketing) es una estrategia de marketing digital basada en anuncios pagados en buscadores.
 ¿Qué es SEMrush?
@@ -136,6 +196,8 @@ El SMS es un servicio de mensajes cortos; un canal de comunicación móvil para 
 El Software es el conjunto de programas, aplicaciones y sistemas operativos que permiten que el hardware funcione y ejecute tareas específicas en un ordenador o dispositivo.
 ¿Qué es un Software de Control de Inventario?
 Un Software de Control de Inventario es una aplicación que gestiona el stock en tiempo real, evitando faltantes o excesos.
+¿Qué es un SQL?
+Un SQL (Sales Qualified Lead) es un lead cualificado por ventas, validado por el equipo comercial y listo para convertirse en oportunidad.
 ¿Qué son los Stocks?
 Los Stocks son el conjunto de productos o materias primas almacenadas para su uso o venta futura.
 ¿Qué es el Streaming?
@@ -151,7 +213,7 @@ Un Usuario Digital es una persona que interactúa con entornos, plataformas o he
 ¿Qué es una Videoconferencia?
 Una Videoconferencia es una tecnología que permite reuniones a distancia en tiempo real a través de video y audio.
 ¿Qué es la Visión 360 grados del cliente?
-La Visión 360 grados del cliente es un enfoque estratégico que permite tener una comprensión integral y detallada del cliente mediante la recopilación, análisis y uso de datos procedentes de todos los puntos de contacto y canales de interacción con la empresa. Facilita una toma de decisiones más personalizada y eficaz.
+La Visión 360 grados del cliente es un enfoque estratégico que permite tener una comprensión integral y detallada del cliente mediante la recopilación, análisis y uso de datos procedentes de todos los puntos de contacto y canales de interacción con la empresa.
 ¿Qué es un Webinar?
 Un Webinar es un seminario o taller impartido por internet con fines de formación o marketing.
 ¿Qué es un Website?
